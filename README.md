@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Joshna Thulimilli 👋
 
-<!--
-**joshnathulimilli/joshnathulimilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Backend Developer | Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Node.js
+* Express.js
+* MongoDB
+* JavaScript
+* Python
+* DBMS
+* Operating Systems
+
+## Projects
+
+### Kitchen Hub
+
+A full-stack food ordering and kitchen management platform with:
+
+* JWT Authentication
+* Razorpay Payment Integration
+* Socket.IO Real-time Updates
+* Swagger API Documentation
+* MongoDB Database
+
+### Campus Placement Recruitment System
+
+A platform to streamline campus recruitment activities.
+
+## Achievements
+
+* PET Score: 153
+* Solved 60+ LeetCode Problems
+
+## Current Goals
+
+* 300+ LeetCode Problems
+* Product-Based Company Internship
+* Advanced Backend Development
+
+📫 Connect with me 
+🔗 LinkedIn:https://www.linkedin.com/in/joshna-thulimilli-758917356/?skipRedirect=true
