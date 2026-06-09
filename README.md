@@ -2,7 +2,6 @@
 
 🎓 B.Tech Computer Science Student
 
-💻 Backend Developer | Full Stack Developer
 
 ## Skills
 
