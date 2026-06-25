@@ -32,7 +32,7 @@ A platform to streamline campus recruitment activities.
 ## Achievements
 
 * PET Score: 153
-* Solved 100+ LeetCode Problems
+* Solved 110+ LeetCode Problems
 
 ## Current Goals
 
