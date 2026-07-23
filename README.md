@@ -1,4 +1,4 @@
-# Hi, I'm Joshna Thulimilli 👋
+# Hi, I'm Joshna Thulimilli 
 
 🎓 B.Tech Computer Science Student
 
